@@ -1,0 +1,58 @@
+/* Style Sheet Created by Peter Stergakos */
+
+body {
+	color: White;
+	background-color: DeepSkyBlue; 
+	font-family: Calibri, sans-serif;
+}
+
+#branding {
+	font-family:'Chewy', sans-serif;
+	color: Ivory;
+	font-size: 3.5em;
+	text-shadow: 1px 1px black;
+}
+
+header, nav, #content, footer {
+	background-color: #0059b3;
+	padding: 10px;
+}
+
+footer{
+	font-size: 0.75em; 
+	text-align: center;
+}
+
+img { 
+	float: left;
+	margin-right: 0.75em;
+	width: 38%;
+	border-radius: 3em;
+}
+
+#outer-wrapper {
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+h1, h2, h3 {
+	Font-family: Verdana, sans-serif;
+	padding-top: 1%;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+}
+
+nav {
+	background-color: DeepSkyBlue;
+}
+
+.clearfloat {
+	clear: both;
+}
+	
+	
+
+
